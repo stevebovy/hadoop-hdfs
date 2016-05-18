@@ -1,6 +1,6 @@
 {
   "name": "Hadoop-hdfs",
-  "tagline": "Steve's Mirror of Apache Hadoop (for libhdfs development)",
+  "tagline": "Steve's Mirror of Apache Hadoop:  [ for LIBHDFS development ]",
   "body": "# LIBHDFS\r\nThis is a C/JNI Interface to the Hadoop HDFS file system.\r\n***\r\n# My Involvement\r\nI became involved/interested in this project through my previous employment at Teradata.\r\n***\r\n# Objectives\r\nI hope to merge many of my Teradata enhancements into the Hadoop HDFS project.\r\n***\r\n\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
